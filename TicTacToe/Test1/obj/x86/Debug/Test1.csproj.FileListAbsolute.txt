@@ -1,0 +1,9 @@
+c:\users\marc\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.exe
+c:\users\marc\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.pdb
+c:\users\marc\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.Form1.resources
+c:\users\marc\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.Properties.Resources.resources
+c:\users\marc\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.csproj.GenerateResource.Cache
+c:\users\marc\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.exe
+c:\users\marc\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.pdb
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\Marc\Documents\Visual Studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.csproj.CoreCompileInputs.cache

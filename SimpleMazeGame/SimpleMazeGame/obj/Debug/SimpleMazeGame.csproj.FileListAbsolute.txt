@@ -1,0 +1,9 @@
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\bin\Debug\SimpleMazeGame.exe
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\bin\Debug\SimpleMazeGame.pdb
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\obj\Debug\SimpleMazeGame.csprojAssemblyReference.cache
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\obj\Debug\SimpleMazeGame.Form1.resources
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\obj\Debug\SimpleMazeGame.Properties.Resources.resources
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\obj\Debug\SimpleMazeGame.csproj.GenerateResource.cache
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\obj\Debug\SimpleMazeGame.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\obj\Debug\SimpleMazeGame.exe
+C:\Users\Marc\source\repos\SimpleMazeGame\SimpleMazeGame\obj\Debug\SimpleMazeGame.pdb
